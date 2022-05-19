@@ -1,1 +1,1 @@
-# giants-mybatis
+# giants-mybatis-generator
